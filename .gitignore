@@ -2,3 +2,5 @@
 [Bb]in
 *.suo
 .vs/SPOExporter/v14/.suo
+*.lock
+*.ide
